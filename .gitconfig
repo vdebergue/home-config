@@ -1,0 +1,16 @@
+[user]
+	name = Vincent Debergue
+	email = vdebergue@gmail.com
+[credential]
+	helper = cache
+[color]
+	ui = true
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	last = log -p -1
+[core]
+	excludesfile = /home/vince/.gitignore
+[push]
+	default = tracking
